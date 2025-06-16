@@ -1,0 +1,23 @@
+
+M
+java:S6881-"2Use virtual threads for heavy blocking operations.(»ãßºøÿÿÿÿ
+t
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(´í­Œ
+>	java:S1084")Either remove or fill this block of code.(´í­Œ
+<	java:S131\""Add a default case to this switch.(ù‚Óøÿÿÿÿ
+m
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ô±½Àùÿÿÿÿ
+R
+java:S6916~"7Replace this "if" statement with a pattern match guard.(´™ˆ÷ýÿÿÿÿ
+N
+java:S6881"2Use virtual threads for heavy blocking operations.(ÓšÇøÿÿÿÿ
+z
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÓšÇøÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ÓšÇøÿÿÿÿ
+S
+java:S6916‡"7Replace this "if" statement with a pattern match guard.(Ó¦¬¥þÿÿÿÿ
+N
+java:S6881Š"2Use virtual threads for heavy blocking operations.(ŸÞ¹®ýÿÿÿÿ
+z
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ŸÞ¹®ýÿÿÿÿ
+D	java:S108Š")Either remove or fill this block of code.(ŸÞ¹®ýÿÿÿÿ

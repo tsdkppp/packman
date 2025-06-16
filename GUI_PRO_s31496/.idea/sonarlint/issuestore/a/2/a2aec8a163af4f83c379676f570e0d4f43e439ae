@@ -1,0 +1,13 @@
+
+V
+java:S1659"@Declare "col" and all following declarations on a separate line.(Ëüîý
+3
+java:S2386"Make this member "protected".(ŒÔ½ 
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‡ºÉŸùÿÿÿÿ
+[
+java:S1659<"EDeclare "lastAnim" and all following declarations on a separate line.(à†Ó°
+y
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(÷–âÑüÿÿÿÿ
+8
+java:S1659N""Declare "oldC" on a separate line.(ùÆªÇ
